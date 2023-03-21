@@ -13,4 +13,4 @@ Run the program with "node index" from the command line then choose which option
 MIT License
 
 ## Walkthrough
-[Walkthrough] (https://drive.google.com/file/d/1t35nwKNyix8HRyT--1Qf1MBjPV0cDFF0/view)
+[Walkthrough](https://drive.google.com/file/d/1t35nwKNyix8HRyT--1Qf1MBjPV0cDFF0/view)
